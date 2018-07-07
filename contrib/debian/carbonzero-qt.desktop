@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=C0
+Comment=C0 P2P Cryptocurrency
+Comment[fr]=C0, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=C0, eşten eşe kriptografik sanal para birimi
+Exec=carbonzero-qt %u
+Terminal=false
+Type=Application
+Icon=carbonzero128
+MimeType=x-scheme-handler/carbonzero;
+Categories=Office;Finance;
